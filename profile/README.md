@@ -1,2 +1,2 @@
-# .github
-Mighty
+# Mighty
+- NYC Cannabis Club
